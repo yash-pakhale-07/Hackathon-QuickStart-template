@@ -61,6 +61,8 @@ No hidden result manipulation.
 5. Results fetched from blockchain  
 
 ---
+⚠ Backend currently configured for Algorand TestNet integration.
+Full deployment ready with valid mnemonic.
 
 ## 🚀 Future Scope
 
